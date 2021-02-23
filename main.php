@@ -2,7 +2,7 @@
 // DB接続設定
 $dsn ='****';//データベース名
 $user = '****';//ユーザー名
-$password = '****';//パスワード
+$password = '****';//パスワード名
 $pdo = new PDO($dsn, $user, $password, 
 array(PDO::ATTR_ERRMODE => PDO::ERRMODE_WARNING));
 //テーブル作成
