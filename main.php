@@ -97,7 +97,7 @@ $results = $stmt->fetchAll();
 <html lang="ja">
 <head>
     <meta charset="UTF-8">
-    <title>mission_1-36</title>
+    <title>mission_3-3</title>
 </head>
 <body>
 <form action="" method="post">
